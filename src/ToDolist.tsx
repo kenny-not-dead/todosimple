@@ -1,5 +1,5 @@
-import React, { ChangeEvent, useState } from "react";
-import classes from "./ToDolist.module.scss";
+import React, { ChangeEvent } from "react";
+import classes from "./TodoList.module.scss";
 import { Checkbox } from "@mui/material";
 
 import CheckCircleOutlineIcon from "@mui/icons-material/CheckCircleOutline";
