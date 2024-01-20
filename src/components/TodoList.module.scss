@@ -1,0 +1,30 @@
+.wrapper{
+  display: flex;
+  border-bottom: 1px solid grey;
+
+  .checkboxwrapper{
+    margin: auto 20px
+  }
+};
+
+.btnDelete{
+  background: none;
+  border: none;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+
+.titlewrapper{
+  width: 90%;
+  text-align: start;
+
+  .completed{
+    color: grey;
+  }
+  
+  .inprogress{
+    color: black;
+    font-weight: 700;
+  }
+}
